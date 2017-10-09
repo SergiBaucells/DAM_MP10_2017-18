@@ -54,4 +54,3 @@
 #    if edad == 15:
 #        continue # El que hi ha a continuació no s'executarà, tornarà al principi del while
 #    print ("Felicidades, tienes " + str(edad))
-
