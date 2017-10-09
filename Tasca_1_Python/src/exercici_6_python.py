@@ -1,6 +1,10 @@
-def invertir_numero(nombre):
-    return str(nombre)[::-1]
+def invertir_numero(numero):
+    return str(numero)[::-1]
 
-
-num = int(input("Introdueix un Numero: "))     
-print("Numero Invertit: " + invertir_numero(num))
+while True:
+    try:
+        num = int(input("Introdueix un número: "))     
+        print("Número Invertit: " + invertir_numero(num))
+        break
+    except:
+        print("El valor introduït ha de ser un número enter")
