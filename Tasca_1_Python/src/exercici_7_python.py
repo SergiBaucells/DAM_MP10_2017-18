@@ -1,10 +1,9 @@
-def invertir_numero(numero):
-    return str(numero)[::-1]
+numero = input("Introdueix un número: ")
 
+lista = list(numero)
 
-num = int(input("Introdueix un número: "))
-
-if (num == invertir_numero(num)):
-    print("És palíndrom")
+listaReverse = [lista[i-1] for i in range(len(lista), 0, -1)]
+if lista == listaReverse:
+    print ("Es palíndrom")
 else:
-    print("No és palíndrom")
+    print ("No es palíndrom")
