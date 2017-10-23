@@ -1,6 +1,15 @@
-# To change this license header, choose License Headers in Project Properties.
-# To change this template file, choose Tools | Templates
-# and open the template in the editor.
+def invertit_cadena():
+    cadena = input("Introdueix una cadena: ")
+    index=0
+    invertida=""
+    j=len(cadena)-1
 
-if __name__ == "__main__":
-    print("Hello World")
+    if (cadena == ""):
+        print("La cadena no pot estar buida!!")
+    else:
+        while (index <= j):
+            invertida = invertida + cadena[j]
+            j = j - 1
+        print("Paraula invertida: ", invertida)
+
+print(invertit_cadena())
