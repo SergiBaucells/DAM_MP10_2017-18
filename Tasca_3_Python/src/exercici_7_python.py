@@ -12,7 +12,7 @@ def a():
         resultat += cadena[index] + caracter
         index = index + 1
     return resultat
-    print(a(cadena,caracter))
+    print(a(cadena, caracter))
 
 def b():
     cadena = input("Introdueix una cadena: ")
@@ -25,12 +25,17 @@ def b():
 def c():
     cadena = input("La seua clau és: ")
     caracter = input("Introdueix un caràcter: ")
-    if (cadena == "" or caracter == ""):
+    if (cadena == ""):
         print("La cadena/caràcter no pot estar buid!!")
 
-    cadena1 = cadena.find(str(":")) + 1
-    cadena2 = cadena[cadena1:]
-    print(cadena2.replace(cadena[cadena1:],caracter))
+    index = 0
+    while index < len(cadena):
+        lletra = cadena[index]
+        if lletra == str(int(lletra)):
+            lletra = caracter
+        index = index + 1
+
+
 
 #print(a())
 #print(b())
