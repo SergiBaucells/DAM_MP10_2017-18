@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cfa165be-2ffc-4f87-b1f9-acb0824c1e17" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tasca_3_Python/src/exercici_7_python.py" afterPath="$PROJECT_DIR$/Tasca_3_Python/src/exercici_7_python.py" />
-    </list>
+    <list default="true" id="cfa165be-2ffc-4f87-b1f9-acb0824c1e17" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,31 +10,20 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/DAM_MP10_2017_18$exercici_9_python.coverage" NAME="exercici_9_python Coverage Results" MODIFIED="1509360585788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tasca_3_Python/src" />
-    <SUITE FILE_PATH="coverage/DAM_MP10_2017_18$exercici_7_python.coverage" NAME="exercici_7_python Coverage Results" MODIFIED="1509360665656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tasca_3_Python/src" />
-    <SUITE FILE_PATH="coverage/DAM_MP10_2017_18$exercici_5_python.coverage" NAME="exercici_5_python Coverage Results" MODIFIED="1509289487634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tasca_3_Python/src" />
-    <SUITE FILE_PATH="coverage/DAM_MP10_2017_18$exercici_2_python.coverage" NAME="exercici_2_python Coverage Results" MODIFIED="1508771069120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tasca_3_Python/src" />
-    <SUITE FILE_PATH="coverage/DAM_MP10_2017_18$exercici_8_python.coverage" NAME="exercici_8_python Coverage Results" MODIFIED="1509360004175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tasca_3_Python/src" />
-    <SUITE FILE_PATH="coverage/DAM_MP10_2017_18$exercici_1_python.coverage" NAME="exercici_1_python Coverage Results" MODIFIED="1508770435321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tasca_3_Python/src" />
+    <SUITE FILE_PATH="coverage/DAM_MP10_2017_18$exercici_9_python.coverage" NAME="exercici_9_python Coverage Results" MODIFIED="1509365245397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tasca_3_Python/src" />
+    <SUITE FILE_PATH="coverage/DAM_MP10_2017_18$exercici_7_python.coverage" NAME="exercici_7_python Coverage Results" MODIFIED="1509365066284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tasca_3_Python/src" />
+    <SUITE FILE_PATH="coverage/DAM_MP10_2017_18$exercici_5_python.coverage" NAME="exercici_5_python Coverage Results" MODIFIED="1509364972909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tasca_3_Python/src" />
+    <SUITE FILE_PATH="coverage/DAM_MP10_2017_18$exercici_2_python.coverage" NAME="exercici_2_python Coverage Results" MODIFIED="1509364822638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tasca_3_Python/src" />
+    <SUITE FILE_PATH="coverage/DAM_MP10_2017_18$exercici_8_python.coverage" NAME="exercici_8_python Coverage Results" MODIFIED="1509365151891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tasca_3_Python/src" />
     <SUITE FILE_PATH="coverage/DAM_MP10_2017_18$execrici_1_python.coverage" NAME="execrici_1_python Coverage Results" MODIFIED="1508775817329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tasca_1_Python/src" />
-    <SUITE FILE_PATH="coverage/DAM_MP10_2017_18$exercici_4_python.coverage" NAME="exercici_4_python Coverage Results" MODIFIED="1508774314054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tasca_3_Python/src" />
-    <SUITE FILE_PATH="coverage/DAM_MP10_2017_18$exercici_3_python.coverage" NAME="exercici_3_python Coverage Results" MODIFIED="1508773829261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tasca_3_Python/src" />
-    <SUITE FILE_PATH="coverage/DAM_MP10_2017_18$exercici_6_python.coverage" NAME="exercici_6_python Coverage Results" MODIFIED="1509286471778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tasca_3_Python/src" />
+    <SUITE FILE_PATH="coverage/DAM_MP10_2017_18$exercici_1_python.coverage" NAME="exercici_1_python Coverage Results" MODIFIED="1509364817821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tasca_3_Python/src" />
+    <SUITE FILE_PATH="coverage/DAM_MP10_2017_18$exercici_4_python.coverage" NAME="exercici_4_python Coverage Results" MODIFIED="1509364947897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tasca_3_Python/src" />
+    <SUITE FILE_PATH="coverage/DAM_MP10_2017_18$exercici_3_python.coverage" NAME="exercici_3_python Coverage Results" MODIFIED="1509364919205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tasca_3_Python/src" />
+    <SUITE FILE_PATH="coverage/DAM_MP10_2017_18$exercici_6_python.coverage" NAME="exercici_6_python Coverage Results" MODIFIED="1509365032441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tasca_3_Python/src" />
     <SUITE FILE_PATH="coverage/DAM_MP10_2017_18$exercici_10_python.coverage" NAME="exercici_10_python Coverage Results" MODIFIED="1509364532574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tasca_3_Python/src" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="exercici_10_python.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Tasca_3_Python/src/exercici_10_python.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="413">
-              <caret line="119" column="21" lean-forward="false" selection-start-line="119" selection-start-column="21" selection-end-line="119" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -50,11 +37,11 @@
         <option value="$PROJECT_DIR$/Tasca_3_Python/src/exercici_4_python.py" />
         <option value="$PROJECT_DIR$/Tasca_3_Python/src/exercici_5_python.py" />
         <option value="$PROJECT_DIR$/Tasca_1_Python/src/execrici_1_python.py" />
-        <option value="$PROJECT_DIR$/Tasca_3_Python/src/exercici_6_python.py" />
         <option value="$PROJECT_DIR$/Tasca_3_Python/src/exercici_7_python.py" />
         <option value="$PROJECT_DIR$/Tasca_3_Python/src/exercici_8_python.py" />
         <option value="$PROJECT_DIR$/Tasca_3_Python/src/exercici_9_python.py" />
         <option value="$PROJECT_DIR$/Tasca_3_Python/src/exercici_10_python.py" />
+        <option value="$PROJECT_DIR$/Tasca_3_Python/src/exercici_6_python.py" />
       </list>
     </option>
   </component>
@@ -133,25 +120,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.exercici_10_python">
-    <configuration name="exercici_10_python" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tasca_3_Python/src" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="DAM_MP10_2017-18" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tasca_3_Python/src/exercici_10_python.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.exercici_9_python">
     <configuration name="exercici_5_python" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -166,6 +135,24 @@
       <module name="DAM_MP10_2017-18" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tasca_3_Python/src/exercici_5_python.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="exercici_6_python" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tasca_3_Python/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DAM_MP10_2017-18" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tasca_3_Python/src/exercici_6_python.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -226,17 +213,17 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.exercici_5_python" />
-      <item index="1" class="java.lang.String" itemvalue="Python.exercici_7_python" />
-      <item index="2" class="java.lang.String" itemvalue="Python.exercici_8_python" />
-      <item index="3" class="java.lang.String" itemvalue="Python.exercici_9_python" />
-      <item index="4" class="java.lang.String" itemvalue="Python.exercici_10_python" />
+      <item index="1" class="java.lang.String" itemvalue="Python.exercici_6_python" />
+      <item index="2" class="java.lang.String" itemvalue="Python.exercici_7_python" />
+      <item index="3" class="java.lang.String" itemvalue="Python.exercici_8_python" />
+      <item index="4" class="java.lang.String" itemvalue="Python.exercici_9_python" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.exercici_10_python" />
-        <item index="1" class="java.lang.String" itemvalue="Python.exercici_7_python" />
-        <item index="2" class="java.lang.String" itemvalue="Python.exercici_9_python" />
-        <item index="3" class="java.lang.String" itemvalue="Python.exercici_8_python" />
+        <item index="0" class="java.lang.String" itemvalue="Python.exercici_9_python" />
+        <item index="1" class="java.lang.String" itemvalue="Python.exercici_8_python" />
+        <item index="2" class="java.lang.String" itemvalue="Python.exercici_7_python" />
+        <item index="3" class="java.lang.String" itemvalue="Python.exercici_6_python" />
         <item index="4" class="java.lang.String" itemvalue="Python.exercici_5_python" />
       </list>
     </recent_temporary>
@@ -256,7 +243,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-6" width="1366" height="713" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -264,7 +250,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32561985" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44132233" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -449,13 +435,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tasca_3_Python/src/exercici_2_python.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="68" lean-forward="false" selection-start-line="5" selection-start-column="68" selection-end-line="5" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Tasca_1_Python/src/execrici_1_python.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -463,17 +442,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tasca_3_Python/src/exercici_4_python.py">
+    <entry file="file://$PROJECT_DIR$/Tasca_3_Python/src/exercici_10_python.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="9" lean-forward="false" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tasca_3_Python/src/exercici_3_python.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="49" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="49" />
+        <state relative-caret-position="413">
+          <caret line="119" column="21" lean-forward="false" selection-start-line="119" selection-start-column="21" selection-end-line="119" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -481,6 +454,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="7" column="46" lean-forward="false" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tasca_3_Python/src/exercici_2_python.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="34" lean-forward="false" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tasca_3_Python/src/exercici_3_python.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="22" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tasca_3_Python/src/exercici_4_python.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="25" lean-forward="true" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
           <folding />
         </state>
       </provider>
@@ -495,40 +492,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Tasca_3_Python/src/exercici_6_python.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="47" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="4" selection-end-column="47" />
+        <state relative-caret-position="306">
+          <caret line="19" column="9" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="4" selection-end-column="47" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Tasca_3_Python/src/exercici_7_python.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="499">
-          <caret line="55" column="10" lean-forward="true" selection-start-line="55" selection-start-column="10" selection-end-line="55" selection-end-column="10" />
+        <state relative-caret-position="185">
+          <caret line="50" column="0" lean-forward="true" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Tasca_3_Python/src/exercici_8_python.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state relative-caret-position="38">
+          <caret line="15" column="47" lean-forward="true" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Tasca_3_Python/src/exercici_9_python.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tasca_3_Python/src/exercici_10_python.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
-          <caret line="119" column="21" lean-forward="false" selection-start-line="119" selection-start-column="21" selection-end-line="119" selection-end-column="21" />
+        <state relative-caret-position="131">
+          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
           <folding />
         </state>
       </provider>
