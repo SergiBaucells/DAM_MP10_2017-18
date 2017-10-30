@@ -1,7 +1,5 @@
 def esApocaliptic(n): 
-
-    n = str(2**num) 
-    if '666' in n: 
+    if '666' in str(n):
         return True 
     else: 
         return False 
