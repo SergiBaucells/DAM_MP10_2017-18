@@ -25,7 +25,7 @@ def b():
 def c():
     cadena = input("La seua clau és: ")
     caracter = input("Introdueix un caràcter: ")
-    if (cadena == ""):
+    if (cadena == "" or caracter == ""):
         print("La cadena/caràcter no pot estar buid!!")
 
     index = 0
@@ -35,8 +35,22 @@ def c():
             lletra = caracter
         index = index + 1
 
+def d():
+    cadena = input("Introdueix una cadena: ")
+    caracter = input("Introdueix un caràcter: ")
+    contador = 0
+    cadena2 = ""
+    if (cadena == "" or caracter == ""):
+        print("La cadena/caràcter no pot estar buid!!")
+    for c in cadena:
+        if contador != 0 and contador % 3 == 0:
+            cadena2 = cadena2 + caracter
+        cadena2 = cadena2 + c
+        contador = contador + 1
+    print(cadena2)
 
 
-#print(a())
-#print(b())
-print(c())
+print(a())
+print(b())
+#print(c()) #No ho vaig poder solucionar! :(
+print(d())
