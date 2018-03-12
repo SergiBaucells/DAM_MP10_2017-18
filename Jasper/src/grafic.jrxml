@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="null" language="groovy" pageWidth="842" pageHeight="595" orientation="Landscape" columnWidth="802" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20" uuid="ae02bafe-f068-41ff-8926-44e23ab0220f">
+	<property name="ireport.zoom" value="1.0"/>
+	<property name="ireport.x" value="0"/>
+	<property name="ireport.y" value="0"/>
+	<queryString language="SQL">
+		<![CDATA[SELECT
+     productos."productoid" AS productos_productoid,
+     productos."proveedorid" AS productos_proveedorid,
+     productos."categoriaid" AS productos_categoriaid,
+     productos."descripcion" AS productos_descripcion,
+     productos."preciounit" AS productos_preciounit,
+     productos."existencia" AS productos_existencia
+FROM
+     "public"."productos" productos]]>
+	</queryString>
+	<field name="productos_productoid" class="java.lang.Integer"/>
+	<field name="productos_proveedorid" class="java.lang.Integer"/>
+	<field name="productos_categoriaid" class="java.lang.Integer"/>
+	<field name="productos_descripcion" class="java.lang.String"/>
+	<field name="productos_preciounit" class="java.math.BigDecimal"/>
+	<field name="productos_existencia" class="java.lang.Integer"/>
+	<group name="productos_productoid">
+		<groupExpression><![CDATA[$F{productos_productoid}]]></groupExpression>
+	</group>
+	<background>
+		<band splitType="Stretch"/>
+	</background>
+	<title>
+		<band height="79" splitType="Stretch">
+			<staticText>
+				<reportElement x="0" y="0" width="802" height="79" uuid="a7641956-63bc-4041-bc69-3ec80fa895ed"/>
+				<textElement textAlignment="Center" markup="none">
+					<font size="64" isBold="true"/>
+				</textElement>
+				<text><![CDATA[Existències productes]]></text>
+			</staticText>
+		</band>
+	</title>
+	<summary>
+		<band height="376" splitType="Stretch">
+			<barChart>
+				<chart>
+					<reportElement x="0" y="0" width="802" height="376" uuid="45043b16-2e94-40cf-bc62-6fe2c7b167e0"/>
+					<chartTitle/>
+					<chartSubtitle/>
+					<chartLegend/>
+				</chart>
+				<categoryDataset>
+					<categorySeries>
+						<seriesExpression><![CDATA[$F{productos_descripcion}]]></seriesExpression>
+						<categoryExpression><![CDATA[$F{productos_descripcion}]]></categoryExpression>
+						<valueExpression><![CDATA[$F{productos_existencia}]]></valueExpression>
+					</categorySeries>
+				</categoryDataset>
+				<barPlot>
+					<plot/>
+					<itemLabel/>
+					<categoryAxisFormat>
+						<axisFormat/>
+					</categoryAxisFormat>
+					<valueAxisFormat>
+						<axisFormat/>
+					</valueAxisFormat>
+				</barPlot>
+			</barChart>
+		</band>
+	</summary>
+</jasperReport>
